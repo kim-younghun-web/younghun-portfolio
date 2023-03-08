@@ -361,7 +361,7 @@ a.active {
     color: #658dc6;
     font-size: 28px;
     text-align: left;
-    line-height: 40px;
+    line-height: 42px;
 }
 
 #about span{
@@ -456,7 +456,9 @@ a.active {
 .ad{
     font-size: 18px;
 }
-
+#projects p{
+    font-family: 'GmarketSansMedium';
+}
 
 
 .portfolio .categories-grid span {
