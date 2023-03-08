@@ -905,6 +905,10 @@ a.active {
         font-size: 20px;
         line-height: 28px;
     }
+    #about p{
+        font-size: 14px;
+        line-height: 25px;
+    }
 }
 
 @media (max-width: 374px) {
